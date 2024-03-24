@@ -1,0 +1,1 @@
+{"$schema":"http://json-schema.org/draft-07/schema#","definitions":{"User":{"properties":{"age":{"type":"number"},"name":{"type":"string"}},"required":["age","name"],"type":"object"}}}
