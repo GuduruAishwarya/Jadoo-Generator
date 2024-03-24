@@ -36,7 +36,7 @@ export default function RootLayout({
             <div className="relative sticky text-center text-white font-bold  text-3xl p-4 pt-0 top-0 z-40 w-full transition-colors duration-500 lg:z-50 lg:border-b lg:border-slate-900/10 flex justify-between items-center ">
               <Link href="/" className="text-3xl flex items-center gap-2">
                 <Image src="/logo.svg" height={40} width={50} alt="Home" />
-                JADU Data Generator
+                JADOO Data Generator
               </Link>
               <div className="text-base flex gap-16 justify-between items-center pr-12">
                 <Link
